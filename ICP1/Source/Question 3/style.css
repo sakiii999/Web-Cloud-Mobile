@@ -1,0 +1,23 @@
+
+/* ----PAGE---- */
+* {-webkit-user-select: none}
+body {margin: 0px; padding: 0px; text-align: center; background-image: url(dots.png)}
+h1   {font-family: Oswald; color: #333; font-weight: 700; font-size: 50px; margin: 0px; padding: 0px;}
+/* ----CONTAINER---- */
+#contain  {position: relative; top: 30px; margin: auto; width: 403px; background: #fff; border-image: url(crossbg.png) 25% 35% repeat; border-width: 30px; box-shadow: 0 0 20px #888;}
+/* ----MAIN BODY---- */
+#wrapper {position: relative; width: 389px; background: #fff; margin: auto;}
+#header {position: relative; width: 389px; border-top: 3px solid #333;}
+#footer   {width: 389px; height: 110px; border-top: 3px solid #333; border-bottom: 3px solid #333;}
+#footer i {font-family: Norican; text-align: center; font-size: 18px;}
+#footer p {font-family: Baskerville; text-align: center; line-height: 18px; margin: 11px;}
+.line_sep {position: relative; margin: auto; width: 200px; border-image: url(diamond10.png) 100% 0 0 0 round; border-top-width: 7px; padding-left: 3px;}
+/* ----BOXES---- */
+.box            { height: 125px; width: 125px; float: left; margin-right: 7px;}
+.box:last-child {height: 125px; width: 125px; float: left; margin-right: 0px;}
+.box:active     { opacity: 1.0;}
+.row {margin-bottom: 7px; overflow: auto;}
+/* ----BACKGROUNDS---- */
+#x {background-image: url(x.png); opacity: .7; background-size: 125px 125px;}
+#o {background-image: url(o.png); opacity: .4; background-size: 125px 125px;}
+#none { background-color: pink; }
