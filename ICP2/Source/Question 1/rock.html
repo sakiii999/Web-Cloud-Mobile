@@ -1,0 +1,32 @@
+<head>
+    <script src="rock.js">
+    </script>
+    <link rel="stylesheet" type="text/css" href="rock.css">
+</head>
+<header class="header">
+    <div class="container">
+        <h1><span class="rock">Rock</span>, <span class="paper">paper</span>, <span class="scissors">scissors</span>
+        </h1>
+    </div>
+</header>
+<div class="main">
+    <div class="container">
+        <section class="content">
+            <button class="play rock" type="button" onclick="play('rock')">Rock</button>
+            <button class="play paper" type="button" onclick="play('paper')">Paper</button>
+            <button class="play scissors" type="button" onclick="play('scissors')">Scissors</button>
+            <div style="clear:both;"></div>
+            <p><span id="player"></span> <span id="opponent"></span></p>
+            <h2 id="results"></h2>
+        </section>
+        <aside class="aside">
+            <div class="scorebox">
+                <h2>Score</h2>
+                <div class="score-num"><span id="wins">0</span> <br />wins</div>
+                <div class="score-divider"><span>-</span></div>
+                <div class="score-num"><span id="loses">0</span> <br />loses</div>
+            </div>
+            <button type="reset" id="reset" onclick="reset()">reset scores</button>
+        </aside>
+    </div>
+</div>
