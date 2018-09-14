@@ -1,0 +1,61 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Index page</title>
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <link href='http://fonts.googleapis.com/css?family=Rokkitt' rel='stylesheet' type='text/css'>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script>
+        function validate() {
+            if(document.getElementById('name').value.length!=0 && document.getElementById('password').value.length!=0)
+            {
+                if (document.getElementById('name').value == localStorage.getItem('UserName') &&
+                    document.getElementById('password').value == localStorage.getItem('Password'))
+                {
+                    window.location.href='index.html';
+                }
+                else
+                {
+                    alert('Please enter valid credentials');
+                }
+            }
+            else
+            {
+                alert('Dear user login details must be entered');
+            }
+        }
+    </script>
+</head>
+<body style="background-image:url('https://previews.123rf.com/images/elenathewise/elenathewise1102/elenathewise110200040/8871761-many-colorful-shopping-bags-on-white-background.jpg') ; background-size:100%">
+<form class="contact_form" name="contact_form">
+    <h1 align="center"><img src="images/icons/logo-01.png" height="150" alt="logo"></h1>
+    <table align="center">
+        <tr>
+            <td>UserName</td>
+            <td><input type="email" class="name" id="name" placeholder="Enter your email address" required=""></td>
+        </tr><br>
+        <tr>
+            <td>Password</td>
+            <td><input type="password" class="password" id="password" placeholder="Enter your password" required="" ></td>
+        </tr><br>
+    </table>
+    <br>
+    <div class="button" align="center">
+        <input type="submit" style="font-family: SansSerif; font-size: 150%; font-weight: bold; padding: 10px 20px; text-align: center"
+               name="Sign In" value="Login" onclick="validate()"><br><br>
+    </div>
+    <div class="forgot" align="center">
+        <a href="#">Forgot password ?</a>
+    </div>
+</form>
+<div class="account">
+    <h2 align="center"><a href="registration.html">Do you want to Join us ? Sign Up Here!</a></h2>
+    <br>
+    <br>
+    <div class="fb-login-button" data-size="xlarge" data-auto-logout-link="False">
+    </div>
+</div>
+</body>
+</html>
