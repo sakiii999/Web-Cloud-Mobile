@@ -6,3 +6,4 @@
 
 **Web/Cloud/Mobile ICP4 Wiki:** https://github.com/sakiii999/Web-Cloud-Mobile/wiki/ICP4
 
+**Web/Cloud/Mobile ICP5 Wiki:** https://github.com/sakiii999/Web-Cloud-Mobile/wiki/ICP5
