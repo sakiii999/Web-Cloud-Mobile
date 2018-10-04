@@ -1,0 +1,18 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    margin-top: 100px;
+}
+.form-group {
+    margin-top: 50px;
+}
+.myButton {
+    padding: 0;
+    background-color: transparent;
+    border: none;
+}
+#logo {
+    width: 60%;
+    height: auto;
+}
