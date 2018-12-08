@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/app1">
+
+
+    <Button
+        android:id="@+id/main_btn_news"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_gravity="center"
+        android:layout_marginBottom="50dp"
+        android:background="@android:color/holo_blue_light"
+        android:onClick="onNewsClick"
+        android:text="News"
+        android:textColor="@color/colorAccent" />
+
+    <Button
+        android:id="@+id/main_btn_photo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_gravity="center"
+        android:layout_marginBottom="50dp"
+        android:background="@android:color/holo_blue_light"
+        android:onClick="onPhotoClick"
+        android:text="Camera"
+        android:textColor="@color/colorAccent" />
+
+    <Button
+        android:id="@+id/main_btn_record"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_gravity="center"
+        android:layout_marginBottom="50dp"
+        android:background="@android:color/holo_blue_light"
+        android:onClick="onAudioClick"
+        android:text="Audio"
+        android:textColor="@color/colorAccent" />
+
+    <Button
+        android:id="@+id/main_btn_storage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="8dp"
+        android:layout_marginBottom="30dp"
+        android:background="@android:color/holo_blue_light"
+        android:onClick="onStorageClick"
+        android:text="File Storage"
+        android:textColor="@color/colorAccent" />
+
+</LinearLayout>

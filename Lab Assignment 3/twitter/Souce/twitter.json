@@ -1,0 +1,1037 @@
+{
+  "users": [
+    {
+      "id": 2917663098,
+      "id_str": "2917663098",
+      "name": "Raviteja J",
+      "screen_name": "ravi_20rj",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32,
+      "friends_count": 60,
+      "listed_count": 0,
+      "created_at": "Wed Dec 03 14:50:11 +0000 2014",
+      "favourites_count": 2,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3,
+      "lang": "en",
+      "status": {
+        "created_at": "Sun Jun 25 04:37:51 +0000 2017",
+        "id": 878834600851775500,
+        "id_str": "878834600851775489",
+        "text": "RT @urstrulyMahesh: Here's wishing one of my favourite directors &amp; a dear friend @sivakoratala a very very happy birthday!! Looking forward…",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "urstrulyMahesh",
+              "name": "Mahesh Babu",
+              "id": 129786468,
+              "id_str": "129786468",
+              "indices": [
+                3,
+                18
+              ]
+            },
+            {
+              "screen_name": "sivakoratala",
+              "name": "koratala siva",
+              "id": 149093702,
+              "id_str": "149093702",
+              "indices": [
+                85,
+                98
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Thu Jun 15 14:41:39 +0000 2017",
+          "id": 875362672094478300,
+          "id_str": "875362672094478337",
+          "text": "Here's wishing one of my favourite directors &amp; a dear friend @sivakoratala a very very happy birthday!! Looking forward to our shoot sir :)",
+          "truncated": false,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "sivakoratala",
+                "name": "koratala siva",
+                "id": 149093702,
+                "id_str": "149093702",
+                "indices": [
+                  65,
+                  78
+                ]
+              }
+            ],
+            "urls": []
+          },
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 3017,
+          "favorite_count": 16075,
+          "favorited": false,
+          "retweeted": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 3017,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/817790826755584001/jz0WrV86_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/817790826755584001/jz0WrV86_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 56191110,
+      "id_str": "56191110",
+      "name": "David Bombal",
+      "screen_name": "davidbombal",
+      "location": "England",
+      "description": "Join me for my GNS3, Python and CCNA videos on YouTube: https://t.co/vuuJfsD3gr",
+      "url": "https://t.co/vuuJfsD3gr",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vuuJfsD3gr",
+              "expanded_url": "https://www.youtube.com/c/davidbombal",
+              "display_url": "youtube.com/c/davidbombal",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/vuuJfsD3gr",
+              "expanded_url": "https://www.youtube.com/c/davidbombal",
+              "display_url": "youtube.com/c/davidbombal",
+              "indices": [
+                56,
+                79
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4278,
+      "friends_count": 132,
+      "listed_count": 55,
+      "created_at": "Sun Jul 12 21:06:30 +0000 2009",
+      "favourites_count": 1388,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2160,
+      "lang": "en",
+      "status": {
+        "created_at": "Wed Oct 31 08:49:57 +0000 2018",
+        "id": 1057555261018247200,
+        "id_str": "1057555261018247168",
+        "text": "RT @Fhdtwi: @davidbombal Super great 👍, looks like an interview practice 😉",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Fhdtwi",
+              "name": "فهــد",
+              "id": 898657889342173200,
+              "id_str": "898657889342173184",
+              "indices": [
+                3,
+                10
+              ]
+            },
+            {
+              "screen_name": "davidbombal",
+              "name": "David Bombal",
+              "id": 56191110,
+              "id_str": "56191110",
+              "indices": [
+                12,
+                24
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Wed Oct 31 06:24:24 +0000 2018",
+          "id": 1057518633692344300,
+          "id_str": "1057518633692344321",
+          "text": "@davidbombal Super great 👍, looks like an interview practice 😉",
+          "truncated": false,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "davidbombal",
+                "name": "David Bombal",
+                "id": 56191110,
+                "id_str": "56191110",
+                "indices": [
+                  0,
+                  12
+                ]
+              }
+            ],
+            "urls": []
+          },
+          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+          "in_reply_to_status_id": 1057398566812115000,
+          "in_reply_to_status_id_str": "1057398566812114947",
+          "in_reply_to_user_id": 56191110,
+          "in_reply_to_user_id_str": "56191110",
+          "in_reply_to_screen_name": "davidbombal",
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 1,
+          "favorite_count": 2,
+          "favorited": false,
+          "retweeted": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/520999453495291904/YSQ8CNH3_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/520999453495291904/YSQ8CNH3_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/56191110/1501660916",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 145125358,
+      "id_str": "145125358",
+      "name": "Amitabh Bachchan",
+      "screen_name": "SrBachchan",
+      "location": "Mumbai, India",
+      "description": "Actor ... well at least some are STILL saying so !!",
+      "url": "http://t.co/Vkp8AE24J1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Vkp8AE24J1",
+              "expanded_url": "http://srbachchan.tumblr.com",
+              "display_url": "srbachchan.tumblr.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 35507776,
+      "friends_count": 1865,
+      "listed_count": 30597,
+      "created_at": "Tue May 18 05:16:47 +0000 2010",
+      "favourites_count": 66,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 63315,
+      "lang": "en",
+      "status": {
+        "created_at": "Wed Oct 31 18:15:47 +0000 2018",
+        "id": 1057697657160839200,
+        "id_str": "1057697657160839168",
+        "text": "T 2981 - \"Two PAST industrial revolutions past - Coal &amp; Steam - then next - Oil &amp; Electricity - are over .. India p… https://t.co/pCjpRBZFPN",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/pCjpRBZFPN",
+              "expanded_url": "https://twitter.com/i/web/status/1057697657160839168",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                125,
+                148
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "7929cea6bd5b32bd",
+          "url": "https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json",
+          "place_type": "city",
+          "name": "Mumbai",
+          "full_name": "Mumbai, India",
+          "country_code": "IN",
+          "country": "India",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  72.74484,
+                  18.845343
+                ],
+                [
+                  73.003648,
+                  18.845343
+                ],
+                [
+                  73.003648,
+                  19.502937
+                ],
+                [
+                  72.74484,
+                  19.502937
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 425,
+        "favorite_count": 5055,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/768780297437450240/FJBOm5n8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/768780297437450240/FJBOm5n8_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/145125358/1500209752",
+      "profile_link_color": "DD2E44",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 101695592,
+      "id_str": "101695592",
+      "name": "Deepika Padukone",
+      "screen_name": "deepikapadukone",
+      "location": "",
+      "description": "",
+      "url": "https://t.co/NaBrXvBkAd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/NaBrXvBkAd",
+              "expanded_url": "http://www.myntra.com/shop/aay-brandpage",
+              "display_url": "myntra.com/shop/aay-brand…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 25078572,
+      "friends_count": 77,
+      "listed_count": 21728,
+      "created_at": "Mon Jan 04 07:51:32 +0000 2010",
+      "favourites_count": 25,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 3740,
+      "lang": "en",
+      "status": {
+        "created_at": "Sun Oct 21 10:29:50 +0000 2018",
+        "id": 1053956519010725900,
+        "id_str": "1053956519010725888",
+        "text": "https://t.co/E0IbjQTnYI",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1053956508847915000,
+              "id_str": "1053956508847915010",
+              "indices": [
+                0,
+                23
+              ],
+              "media_url": "http://pbs.twimg.com/media/DqBn3FaXQAIvAZu.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DqBn3FaXQAIvAZu.jpg",
+              "url": "https://t.co/E0IbjQTnYI",
+              "display_url": "pic.twitter.com/E0IbjQTnYI",
+              "expanded_url": "https://twitter.com/deepikapadukone/status/1053956519010725888/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 534,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 942,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1005,
+                  "h": 1280,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1053956508847915000,
+              "id_str": "1053956508847915010",
+              "indices": [
+                0,
+                23
+              ],
+              "media_url": "http://pbs.twimg.com/media/DqBn3FaXQAIvAZu.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DqBn3FaXQAIvAZu.jpg",
+              "url": "https://t.co/E0IbjQTnYI",
+              "display_url": "pic.twitter.com/E0IbjQTnYI",
+              "expanded_url": "https://twitter.com/deepikapadukone/status/1053956519010725888/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 534,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 942,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1005,
+                  "h": 1280,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1053956508847927300,
+              "id_str": "1053956508847927297",
+              "indices": [
+                0,
+                23
+              ],
+              "media_url": "http://pbs.twimg.com/media/DqBn3FaXcAEme7U.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DqBn3FaXcAEme7U.jpg",
+              "url": "https://t.co/E0IbjQTnYI",
+              "display_url": "pic.twitter.com/E0IbjQTnYI",
+              "expanded_url": "https://twitter.com/deepikapadukone/status/1053956519010725888/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1005,
+                  "h": 1280,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 534,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 942,
+                  "h": 1200,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 17286,
+        "favorite_count": 140074,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/996687724043218944/vFejWnUF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/996687724043218944/vFejWnUF_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/101695592/1526463847",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 68497896,
+      "id_str": "68497896",
+      "name": "Ranveer Singh",
+      "screen_name": "RanveerOfficial",
+      "location": "Mumbai",
+      "description": "Living the dream.......",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 10888524,
+      "friends_count": 852,
+      "listed_count": 1804,
+      "created_at": "Mon Aug 24 20:00:25 +0000 2009",
+      "favourites_count": 2161,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 4357,
+      "lang": "en",
+      "status": {
+        "created_at": "Thu Nov 01 04:07:50 +0000 2018",
+        "id": 1057846653582012400,
+        "id_str": "1057846653582012416",
+        "text": "🎧🕶🛩 #Goa https://t.co/ODKegCggkK",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Goa",
+              "indices": [
+                4,
+                8
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1057846634736959500,
+              "id_str": "1057846634736959488",
+              "indices": [
+                9,
+                32
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dq456NpWwAAkkN7.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dq456NpWwAAkkN7.jpg",
+              "url": "https://t.co/ODKegCggkK",
+              "display_url": "pic.twitter.com/ODKegCggkK",
+              "expanded_url": "https://twitter.com/RanveerOfficial/status/1057846653582012416/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 544,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 960,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 1280,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1057846634736959500,
+              "id_str": "1057846634736959488",
+              "indices": [
+                9,
+                32
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dq456NpWwAAkkN7.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dq456NpWwAAkkN7.jpg",
+              "url": "https://t.co/ODKegCggkK",
+              "display_url": "pic.twitter.com/ODKegCggkK",
+              "expanded_url": "https://twitter.com/RanveerOfficial/status/1057846653582012416/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 544,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 960,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 1280,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 72,
+        "favorite_count": 1482,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1006576559858126849/QBEno5sg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006576559858126849/QBEno5sg_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/68497896/1528811396",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 69815166,
+      "id_str": "69815166",
+      "name": "GRE Word of the Day",
+      "screen_name": "GREwordlist",
+      "location": "India",
+      "description": "GRE Vocabulary Builder usages adaptive vocabulary building method to help students learn GRE vocabulary at a much faster rate.",
+      "url": "http://t.co/VmLF0gJlwr",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/VmLF0gJlwr",
+              "expanded_url": "http://www.VocabBuilder.net",
+              "display_url": "VocabBuilder.net",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 6674,
+      "friends_count": 200,
+      "listed_count": 151,
+      "created_at": "Sat Aug 29 07:18:56 +0000 2009",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 323,
+      "lang": "en",
+      "status": {
+        "created_at": "Sun Nov 07 16:45:13 +0000 2010",
+        "id": 1314240451321856,
+        "id_str": "1314240451321856",
+        "text": "dislodge: (v) remove or force out from a position [Usages, Audio & more @http://bit.ly/aeBlcU]",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 18,
+        "favorite_count": 20,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/387540555/vocab128x128_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/387540555/vocab128x128_normal.png",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 81221840,
+      "id_str": "81221840",
+      "name": "Magoosh Grad Prep",
+      "screen_name": "MagooshGradPrep",
+      "location": "Berkeley, CA",
+      "description": "Online test prep to help you ace the GRE, GMAT, LSAT, MCAT!  https://t.co/aFUQpyDTh0",
+      "url": "http://t.co/5G1oJIJCeQ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/5G1oJIJCeQ",
+              "expanded_url": "http://gre.magoosh.com",
+              "display_url": "gre.magoosh.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/aFUQpyDTh0",
+              "expanded_url": "http://gre.magoosh.com",
+              "display_url": "gre.magoosh.com",
+              "indices": [
+                61,
+                84
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 5699,
+      "friends_count": 496,
+      "listed_count": 64,
+      "created_at": "Fri Oct 09 22:46:29 +0000 2009",
+      "favourites_count": 1182,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4576,
+      "lang": "en",
+      "status": {
+        "created_at": "Tue Oct 30 21:03:05 +0000 2018",
+        "id": 1057377372318715900,
+        "id_str": "1057377372318715906",
+        "text": "You will see about 6 Data Interpretation questions (or more!) on your GRE test. Check out this post for some practi… https://t.co/NeAtTv8TUg",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/NeAtTv8TUg",
+              "expanded_url": "https://twitter.com/i/web/status/1057377372318715906",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "3B0151",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1045056372012769280/xr1wmu9T_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045056372012769280/xr1wmu9T_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/81221840/1421863361",
+      "profile_link_color": "26B67C",
+      "profile_sidebar_border_color": "DDB8F0",
+      "profile_sidebar_fill_color": "E9E6ED",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    }
+  ],
+  "next_cursor": 0,
+  "next_cursor_str": "0",
+  "previous_cursor": 0,
+  "previous_cursor_str": "0",
+  "total_count": null
+}
